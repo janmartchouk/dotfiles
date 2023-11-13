@@ -21,6 +21,9 @@ Plugin 'tpope/vim-fugitive'
 " status bar at the bottom
 Plugin 'vim-airline/vim-airline'
 
+" smooth scrolling
+Plugin 'psliwka/vim-smoothie'
+
 " line numbers
 " Bundle "myusuf3/numbers.vim"
 
